@@ -1,3 +1,3 @@
-# Mini AI CUP #3
+# Mini AI Cup #3
 
 solution `15339`
